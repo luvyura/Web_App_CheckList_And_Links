@@ -33,7 +33,7 @@
 32. RBAC
 33. Improper Cache Controle
     
-______________________________ Session related Bugs______________________________
+______________________________Session related Bugs______________________________
 1. Session handling
 2. Session Fixation
 3. Test tokens for predictability
